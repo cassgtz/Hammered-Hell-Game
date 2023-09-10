@@ -1,5 +1,5 @@
 # Hammered-Hell-Game
-
+#### Overview
 This project is a first-person shooter horror style game made in the Game Design course at Occidental College. The game was made in Unity in collaboration with team members Cassandra Gurierrez, Maryo Botros, Luis Martinez, and Jadriel Delim. 
 
 I was responsible for creating & designing Level 1 of the game. My responsibilities included:
@@ -18,7 +18,8 @@ I was responsible for creating & designing Level 1 of the game. My responsibilit
   * Win/Lose Menu
 * Player prefab creation
 * Level-Specific Lighting & Particle Effects
- 
+
+#### Links to files
 
 To view the executable Unity package and game design document, see the [project's google drive folder](https://drive.google.com/drive/u/0/folders/1-2FBXW62-aXnH0y8h--6eobEaoJ6b2ya). 
 
