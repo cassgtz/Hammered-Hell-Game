@@ -25,5 +25,8 @@ I was responsible for creating & designing Level 1 of the game. My responsibilit
   * Win/Lose Menu
 * Player prefab creation
 * Level-Specific Lighting & Particle Effects
+* Testing, documenting, and fixing bugs throughout all levels
+
+Mechanics & GUI were used in other levels by all other team members. 
 
 
