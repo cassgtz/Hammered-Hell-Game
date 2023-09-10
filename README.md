@@ -3,7 +3,7 @@ This project is a first-person shooter horror style game made in the Game Design
 
 ### Links to files
 
-To view the executable Unity package and game design document, see the [project's google drive folder](https://drive.google.com/drive/u/0/folders/1-2FBXW62-aXnH0y8h--6eobEaoJ6b2ya). 
+To view the executable Unity package and game design document, see the [project's google drive folder](https://drive.google.com/drive/u/0/folders/1-2FBXW62-aXnH0y8h--6eobEaoJ6b2ya). Bugs are reported on page 2 of the game design document. 
 
 
 To view the C# files that I programmed and contributed to the project, see [my google drive folder](https://drive.google.com/drive/folders/1txgjgQpQkveI88YVUzdKOYAWS3gPaE7R?usp=sharing). 
